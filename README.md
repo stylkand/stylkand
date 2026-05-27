@@ -1,4 +1,5 @@
-![PROFILE VIEWS](https://img.shields.io/badge/PROFILE%20VIEWS-1513-orange)
+![Profile views](https://komarev.com/ghpvc/?username=stylkand&label=Profile%20views&color=0e75b6&style=flat)
+
 
 A ECE-NTUA graduate working with love in blockchain and AI.
 Now a Product Manager, developing Finance products.

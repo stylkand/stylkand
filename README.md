@@ -17,7 +17,7 @@ Now a Product Manager, developing Finance products.
 
 ## Publications
 
-📄 Published: ![An M-Health Algorithmic Approach to Identify and Assess Physiotherapy Exercises in Real Time](https://arxiv.org/abs/2512.10437) — arXiv, Cornell University, 2025.
+- 📄 **Published:** [An M-Health Algorithmic Approach to Identify and Assess Physiotherapy Exercises in Real Time](https://arxiv.org/abs/2512.10437) — *arXiv, Cornell University, 2025*
 
 ## 💬 Let's Connect
 

@@ -15,7 +15,9 @@ Now a Product Manager, developing Finance products.
 ![MMDetection](https://img.shields.io/badge/MMDetection-000000?style=flat&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=flat&logo=jupyter&logoColor=white)
 
----
+## Publications
+
+📄 Published: ![An M-Health Algorithmic Approach to Identify and Assess Physiotherapy Exercises in Real Time](https://arxiv.org/abs/2512.10437) — arXiv, Cornell University, 2025.
 
 ## 💬 Let's Connect
 
